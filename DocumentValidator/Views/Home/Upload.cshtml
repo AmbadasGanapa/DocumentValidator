@@ -1,0 +1,94 @@
+﻿@model DocumentValidator.Models.DocumentViewModel
+
+@{
+    ViewData["Title"] = "Upload Document";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+
+<div class="container animate__animated animate__fadeIn">
+    <h2>Upload and Validate Document</h2>
+
+    <form asp-controller="Home" asp-action="Upload" method="post" enctype="multipart/form-data" onsubmit="showLoader()">
+        <div class="form-group">
+            <label>Expected Document Type</label>
+          
+              <select asp-for="ExpectedDocumentType" class="form-control" required>
+                    <option value="">-- Select Document Type --</option>
+                    <option>Aadhaar Card</option>
+                    <option>PAN Card</option>
+                    <option>Passport</option>
+                    <option>Voter ID</option>
+                    <option>Driving License</option>
+                    <option>Ration Card</option>
+                    <option>Bank Passbook</option>
+                    <option>Birth Certificate</option>
+                    <option>Death Certificate</option>
+                    <option>Caste Certificate</option>
+                    <option>Income Certificate</option>
+                    <option>Domicile Certificate</option>
+                    <option>Caste Validity Certificate</option>
+                    <option>Electricity Bill</option>
+                    <option>SSC Marksheet</option>
+                    <option>HSC Marksheet</option>
+                    <option>School Leaving Certificate</option>
+                    <option>Transfer Certificate</option>
+                    <option>Bonafide Certificate</option>
+                    <option>Employment Card</option>
+                    <option>Disability Certificate</option>
+                    <option>Other</option>
+                </select>
+        </div>
+
+        <div class="form-group">
+            <label>Select Document File</label>
+            <input asp-for="File" type="file" class="form-control" accept=".jpg,.jpeg,.png,.pdf" onchange="previewFile()" required />
+        </div>
+
+        <img id="preview" alt="Preview" />
+
+        <button type="submit" class="btn btn-primary" onclick="GetClear()">Upload & Validate</button>
+    </form>
+    <br /><br />
+
+    @if (ViewBag.Message != null)
+    {
+        <div id="Messagebx" class="message-box @(ViewBag.Message.Contains("✅") ? "success-box" : "error-box") animate__animated animate__fadeInUp">
+            @ViewBag.Message
+        </div>
+    }
+
+    <div class="loader" id="loader">
+        <img src="https://i.gifer.com/ZZ5H.gif" width="40" />
+        <p>Validating... Please wait.</p>
+    </div>
+</div>
+<script>
+    function GetClear()
+    {
+           document.getElementById("Messagebx").innerHTML="";
+    }
+  </script>
+<script>
+    function showLoader() {
+        document.getElementById('loader').style.display = 'block';
+    }
+
+    function previewFile() {
+        const fileInput = document.querySelector('input[type=file]');
+        const preview = document.getElementById('preview');
+        const file = fileInput.files[0];
+
+        if (file && file.type.startsWith('image/')) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                preview.src = e.target.result;
+                preview.style.display = 'block';
+            };
+            reader.readAsDataURL(file);
+        } else {
+            preview.style.display = 'none';
+        }
+    }
+</script>

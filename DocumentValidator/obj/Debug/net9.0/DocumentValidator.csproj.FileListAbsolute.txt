@@ -1,0 +1,214 @@
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\appsettings.Development.json
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\appsettings.json
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.staticwebassets.runtime.json
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.staticwebassets.endpoints.json
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x86\leptonica-1.82.0.dll
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x86\tesseract50.dll
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x64\leptonica-1.82.0.dll
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x64\tesseract50.dll
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.exe
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.deps.json
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.runtimeconfig.json
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.dll
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.pdb
+D:\C#\DocumentValidator\DocumentValidator\bin\Debug\net9.0\Tesseract.dll
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.csproj.AssemblyReference.cache
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.AssemblyInfoInputs.cache
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.AssemblyInfo.cs
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.csproj.CoreCompileInputs.cache
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.RazorAssemblyInfo.cache
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.RazorAssemblyInfo.cs
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\scopedcss\bundle\DocumentValidator.styles.css
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\scopedcss\projectbundle\DocumentValidator.bundle.scp.css
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\k16rst4swz-b9sayid5wm.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\owgh9ram1b-61n19gt1b8.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\gw9ulfw8ti-xtxxf3hu2r.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\04k4ij5z2i-bqjiyaj88i.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4o103rjel0-c2jlpeoesf.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\mmudolbesm-erw9l3u2r3.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\vb3w3tqpwo-aexeepp0ev.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\7a2h0yit78-d7shbmvgxk.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4g0kuilvo1-ausgxo2sd3.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\vk0kjcmmwk-k8d9w2qqmf.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ez68e7nc0f-cosvhxvwiu.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\nvcshd80n6-ub07r2b239.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\juidtscicb-fvhpjtyr6v.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\3j6r6co9cq-b7pk76d08c.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\utq4f7f69n-fsbi9cje9m.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\s9il7s56rg-rzd6atqjts.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\z49odgqhgy-ee0r1s7dh0.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\shtbczyzpt-dxx9fxp4il.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\bd8udm4c95-jd9uben2k1.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\bt48s0ysqx-khv3u5hwcm.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\i50txot6s2-r4e9w2rdcm.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\0o7w98e6ve-lcd1t2u6c8.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\qr5j76uolb-c2oey78nd0.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\mrmovucml4-tdbxkamptv.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4gq2xn33nj-j5mq2jizvt.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\9vph1ut2z4-06098lyss8.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\u4kav3v6w7-nvvlpmu67g.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ycmx7g6woj-s35ty4nyc5.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\q4pl22peg5-pj5nd1wqec.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\r8zksdyi56-46ein0sx1k.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\rre3pt6z3n-v0zj4ognzu.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\nyzh3wnfuw-37tfw0ft22.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\9jzhghyn77-hrwsygsryq.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\pipomzfjaw-pk9g2wxc8p.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\bzhshd2vwj-ft3s53vfgj.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\b8nify3vay-6cfz1n2cew.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ai2dmkpgna-6pdc2jztkx.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\lztdyu3d3j-493y06b0oq.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ix5x0kmop2-iovd86k7lj.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\tlruuvvjm1-vr1egmr9el.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\jctozmc2yg-kbrnm935zg.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\fsj2vxnw5k-jj8uyg4cgr.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\1vtswje82f-y7v9cxd14o.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\kh3j13n3b2-notf2xhcfb.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\w0eeos3f5w-h1s4sie4z3.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\as1fwy24c3-63fj8s7r0e.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\0srwviyza2-0j3bgjxly4.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\tue26ieb86-47otxtyo56.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\072c9pu7ol-4v8eqarkd7.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\sbh6huhedl-356vix0kms.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\7zvr409yxx-83jwlth58m.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\rrfd5qswco-mrlpezrjn3.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\y8rbf8b9ap-lzl9nlhx6b.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\us7wx5xbkr-ag7o75518u.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\mrd6ma8xsu-x0q3zqp4vz.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\g0a6ch6nz4-0i3buxo5is.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\vovgynlbdq-o1o13a6vjx.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\e85vr5gzgg-ttgo8qnofa.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\1f0ex00nv4-2z0ns9nrw6.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\aj6sc4x27k-muycvpuwrr.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\zl0emcswua-87fc7y1x7t.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4zkid79nmb-mlv21k5csn.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\00jte2942m-mbs1c4dw2k.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\kt2ylt87yo-mbs1c4dw2k.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.build.json
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.development.json
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.DocumentValidator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.DocumentValidator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.build.DocumentValidator.props
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DocumentValidator.props
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DocumentValidator.props
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.pack.json
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\Document.F7ED80DA.Up2Date
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.dll
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\refint\DocumentValidator.dll
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.pdb
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.genruntimeconfig.cache
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\ref\DocumentValidator.dll
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\iju1pvfdg7-13vt7a8z83.gz
+D:\C#\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\b1uzfvkrqm-wanuiohkrp.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\appsettings.Development.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\appsettings.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.staticwebassets.endpoints.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x86\leptonica-1.82.0.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x86\tesseract50.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x64\leptonica-1.82.0.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\x64\tesseract50.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.staticwebassets.runtime.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.exe
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.deps.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.runtimeconfig.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\DocumentValidator.pdb
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\bin\Debug\net9.0\Tesseract.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.csproj.AssemblyReference.cache
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.AssemblyInfoInputs.cache
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.AssemblyInfo.cs
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.csproj.CoreCompileInputs.cache
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.RazorAssemblyInfo.cache
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.RazorAssemblyInfo.cs
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\scopedcss\bundle\DocumentValidator.styles.css
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\scopedcss\projectbundle\DocumentValidator.bundle.scp.css
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\b1uzfvkrqm-wanuiohkrp.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\k16rst4swz-b9sayid5wm.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\iju1pvfdg7-13vt7a8z83.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\owgh9ram1b-61n19gt1b8.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\gw9ulfw8ti-xtxxf3hu2r.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\04k4ij5z2i-bqjiyaj88i.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4o103rjel0-c2jlpeoesf.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\mmudolbesm-erw9l3u2r3.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\vb3w3tqpwo-aexeepp0ev.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\7a2h0yit78-d7shbmvgxk.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4g0kuilvo1-ausgxo2sd3.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\vk0kjcmmwk-k8d9w2qqmf.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ez68e7nc0f-cosvhxvwiu.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\nvcshd80n6-ub07r2b239.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\juidtscicb-fvhpjtyr6v.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\3j6r6co9cq-b7pk76d08c.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\utq4f7f69n-fsbi9cje9m.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\s9il7s56rg-rzd6atqjts.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\z49odgqhgy-ee0r1s7dh0.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\shtbczyzpt-dxx9fxp4il.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\bd8udm4c95-jd9uben2k1.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\bt48s0ysqx-khv3u5hwcm.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\i50txot6s2-r4e9w2rdcm.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\0o7w98e6ve-lcd1t2u6c8.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\qr5j76uolb-c2oey78nd0.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\mrmovucml4-tdbxkamptv.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4gq2xn33nj-j5mq2jizvt.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\9vph1ut2z4-06098lyss8.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\u4kav3v6w7-nvvlpmu67g.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ycmx7g6woj-s35ty4nyc5.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\q4pl22peg5-pj5nd1wqec.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\r8zksdyi56-46ein0sx1k.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\rre3pt6z3n-v0zj4ognzu.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\nyzh3wnfuw-37tfw0ft22.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\9jzhghyn77-hrwsygsryq.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\pipomzfjaw-pk9g2wxc8p.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\bzhshd2vwj-ft3s53vfgj.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\b8nify3vay-6cfz1n2cew.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ai2dmkpgna-6pdc2jztkx.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\lztdyu3d3j-493y06b0oq.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\ix5x0kmop2-iovd86k7lj.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\tlruuvvjm1-vr1egmr9el.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\jctozmc2yg-kbrnm935zg.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\fsj2vxnw5k-jj8uyg4cgr.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\1vtswje82f-y7v9cxd14o.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\kh3j13n3b2-notf2xhcfb.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\w0eeos3f5w-h1s4sie4z3.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\as1fwy24c3-63fj8s7r0e.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\0srwviyza2-0j3bgjxly4.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\tue26ieb86-47otxtyo56.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\072c9pu7ol-4v8eqarkd7.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\sbh6huhedl-356vix0kms.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\7zvr409yxx-83jwlth58m.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\rrfd5qswco-mrlpezrjn3.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\y8rbf8b9ap-lzl9nlhx6b.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\us7wx5xbkr-ag7o75518u.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\mrd6ma8xsu-x0q3zqp4vz.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\g0a6ch6nz4-0i3buxo5is.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\vovgynlbdq-o1o13a6vjx.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\e85vr5gzgg-ttgo8qnofa.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\1f0ex00nv4-2z0ns9nrw6.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\aj6sc4x27k-muycvpuwrr.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\zl0emcswua-87fc7y1x7t.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\4zkid79nmb-mlv21k5csn.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\00jte2942m-mbs1c4dw2k.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\compressed\kt2ylt87yo-mbs1c4dw2k.gz
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.build.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.development.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.DocumentValidator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.DocumentValidator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.build.DocumentValidator.props
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DocumentValidator.props
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DocumentValidator.props
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.pack.json
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\Document.F7ED80DA.Up2Date
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\refint\DocumentValidator.dll
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.pdb
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\DocumentValidator.genruntimeconfig.cache
+D:\My Projects\ASP.NET Core\DocumentValidator\DocumentValidator\obj\Debug\net9.0\ref\DocumentValidator.dll
