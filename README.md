@@ -37,7 +37,7 @@ This project solves that problem by **extracting text using OCR** and automatica
 
 ## ⚙️ How It Works
 
-1. **User Uploads Document** (e.g., Aadhar card image in JPG, PNG, or PDF format).  
+1. **User Uploads Document** (e.g., Aadhar card image in JPG, PNG).  
 2. **Tesseract OCR Engine Extracts Text** from the document.  
 3. **Validation Logic** checks for unique identifiers (like “Aadhar”, “Government of India”, “XXXX-XXXX-XXXX”).  
 4. If it **matches** the expected document type → **Approved** ✅  
@@ -76,7 +76,8 @@ Run the application
 
 Open in browser
 
-https://localhost:5001/
+`https://localhost:5001/`
+
 
 🧩 Folder Structure
 DocumentValidator/
@@ -110,4 +111,4 @@ Ambadas Mohan Ganapa
 
 🔗 LinkedIn – Ambadas Ganapa
 
-[Click Here](https://ambadasganapa.github.io)🌐 Portfolio Website:
+[🌐 Portfolio Website:](https://ambadasganapa.github.io)
